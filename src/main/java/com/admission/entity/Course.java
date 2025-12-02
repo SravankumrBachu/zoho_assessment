@@ -7,9 +7,7 @@ import lombok.*;
 import java.time.LocalDateTime;
 import java.util.Set;
 
-/**
- * Course Entity representing available courses for admission
- */
+
 @Entity
 @Table(name = "courses")
 @Data
