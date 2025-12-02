@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+
+# Ignore IDE files
+.classpath
+.project
+.settings/
+
+# Ignore build output
+target/
+build/
+*.class
+
+# Ignore Tomcat
+apache-tomcat*/
+webapps/
+work/
+temp/
+logs/
+
+# Ignore node_modules (if any)
+node_modules/
